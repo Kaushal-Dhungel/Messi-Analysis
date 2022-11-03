@@ -1,6 +1,8 @@
 # Lionel Messi (GOAT)
 
-*Lionel Messi is an Argentine professional footballer who plays as a forward for Ligue 1 club Paris Saint-Germain and captains the Argentina national team. He is widely regarded as the greatest football player of all time. Here, I have tried analysing his career goals and some other performance metrices. The data was collected/scraped from multiple souces like Kaggle, Fbref, Understat, and Transfermarkt.*
+*Lionel Messi is an Argentine professional footballer who plays as a forward for Ligue 1 club Paris Saint-Germain and captains the Argentina national team. He is widely regarded as the greatest football player of all time.* 
+
+*Here, I have tried analysing his career goals and some other performance metrices. The data was collected from [Kaggle](https://www.kaggle.com/datasets/azminetoushikwasi/-lionel-messi-all-club-goals), and scraped from multiple souces like [Fbref](https://fbref.com/en/players/d70ce98e/Lionel-Messi), [Understat](https://understat.com/player/2097), and [Transfermarkt](https://www.transfermarkt.com/lionel-messi/alletore/spieler/28003).*
 
 
 ## 1. Goals by Competition, Venue, Type and Playing Position
